@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots />
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/target/work/plugins/asset-pipeline-2.9.1">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/asset-pipeline-2.9.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/asset-pipeline-2.9.1/grails-app/taglib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/asset-pipeline-2.9.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/asset-pipeline-2.9.1/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/banner-lib-3.3.4">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/banner-lib-3.3.4/grails-app/domain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/banner-lib-3.3.4/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/banner-lib-3.3.4/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/banner-lib-3.3.4/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2/grails-app/controllers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2/grails-app/domain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2/grails-app/taglib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/base-lib-4.4.2/src/precompile" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.8">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.8/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.8/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.8/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.8/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/cache-ehcache-1.0.5">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-ehcache-1.0.5/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-ehcache-1.0.5/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/clover-4.3.1" />
+    <content url="file://$MODULE_DIR$/target/work/plugins/cors-1.1.6">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cors-1.1.6/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/hibernate4-4.3.10">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/hibernate4-4.3.10/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/jquery-1.11.1">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/jquery-1.11.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/jquery-1.11.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/jquery-1.11.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.7">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.7/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.7/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.7/grails-app/taglib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.7/src/groovy" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/quartz-1.0.2">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/quartz-1.0.2/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/quartz-1.0.2/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/quartz-1.0.2/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/rendering-1.0.0">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/rendering-1.0.0/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/rendering-1.0.0/grails-app/taglib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/rendering-1.0.0/src/groovy" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/rest-client-builder-2.1.1" />
+    <content url="file://$MODULE_DIR$/target/work/plugins/spring-security-core-2.0.0">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-core-2.0.0/grails-app/controllers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-core-2.0.0/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-core-2.0.0/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-core-2.0.0/grails-app/taglib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-core-2.0.0/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-core-2.0.0/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/spring-security-ldap-2.0.1">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-ldap-2.0.1/src/groovy" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/spring-security-rest-1.5.4">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-rest-1.5.4/grails-app/controllers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-rest-1.5.4/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-rest-1.5.4/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/spring-security-rest-1.5.4/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/tomcat-8.0.50">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/tomcat-8.0.50/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/tomcat-8.0.50/src/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/twitter-bootstrap-3.3.4">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/twitter-bootstrap-3.3.4/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/twitter-bootstrap-3.3.4/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/webxml-1.4.1">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/webxml-1.4.1/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library (ocas-transcript-sync-grailsPlugins)">
+        <CLASSES>
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-webmvc/jars/spring-webmvc-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-context-support/jars/spring-context-support-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-jsp-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-fileupload-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-mvc-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-common-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/commons-fileupload/commons-fileupload/jars/commons-fileupload-1.3.1.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/commons-io/commons-io/jars/commons-io-2.2.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-gsp-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-controllers-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.codehaus.jsr166-mirror/jsr166y/jars/jsr166y-1.7.0.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-datasource-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.tomcat/tomcat-jdbc/jars/tomcat-jdbc-7.0.70.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.tomcat/tomcat-juli/jars/tomcat-juli-7.0.70.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-validation-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-async-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.codehaus.gpars/gpars/jars/gpars-1.2.1.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-databinding-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-databinding-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.21.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-url-mappings-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/opensymphony/sitemesh/jars/sitemesh-2.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-sitemesh-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-rest-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.4.10.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-logging-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/jars/concurrentlinkedhashmap-lru-1.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-validation-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/commons-validator/commons-validator/jars/commons-validator-1.4.0.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-mimetypes-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-services-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-tx/jars/spring-tx-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-servlets-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-url-mappings-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-log4j-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.21.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.grails/grails-datastore-core/jars/grails-datastore-core-3.1.5.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.grails/grails-datastore-gorm/jars/grails-datastore-gorm-3.1.5.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.grails/grails-datastore-simple/jars/grails-datastore-simple-3.1.5.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-domain-class-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-converters-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-jdbc/jars/spring-jdbc-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-context/jars/spring-context-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-aop/jars/spring-aop-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-core/jars/spring-core-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/jars/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-bootstrap-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-beans/jars/spring-beans-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-expression/jars/spring-expression-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/com.google.code.gson/gson/jars/gson-2.2.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-databinding-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-core-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/aopalliance/aopalliance/jars/aopalliance-1.0.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-spring-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-codecs-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-encoder-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-web/jars/spring-web-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/commons-codec/commons-codec/jars/commons-codec-1.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/commons-lang/commons-lang/jars/commons-lang-2.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-filters-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-gsp-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-web-gsp-taglib-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-i18n-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-aspects/jars/spring-aspects-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.aspectj/aspectjweaver/jars/aspectjweaver-1.8.7.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.aspectj/aspectjrt/jars/aspectjrt-1.8.7.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/xalan/serializer/jars/serializer-2.7.2.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.tomcat.embed/tomcat-embed-logging-log4j/jars/tomcat-embed-logging-log4j-7.0.70.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/log4j/log4j/jars/log4j-1.2.17.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-resources-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/com.h2database/h2/jars/h2-1.3.176.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/com.google.code.findbugs/jsr305/jars/jsr305-1.3.9.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.0.1.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-test-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.objenesis/objenesis/jars/objenesis-1.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.springframework/spring-test/jars/spring-test-4.1.9.RELEASE.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-plugin-testing-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/junit/junit/jars/junit-4.12.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.spockframework/spock-core/jars/spock-core-1.0-groovy-2.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/asm/asm/jars/asm-3.3.1.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.ant/ant-launcher/jars/ant-launcher-1.9.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/cglib/cglib/jars/cglib-2.2.2.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.codehaus.gant/gant_groovy1.8/jars/gant_groovy1.8-1.9.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.ant/ant/jars/ant-1.9.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/jline/jline/jars/jline-2.12.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.fusesource.jansi/jansi/jars/jansi-1.11.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-project-api-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.ant/ant-junit/jars/ant-junit-1.9.4.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/net.java.dev.jna/jna/jars/jna-4.0.0.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/bouncycastle/bcprov-jdk14/jars/bcprov-jdk14-138.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.ivy/ivy/jars/ivy-2.3.0.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.apache.ant/ant-trax/jars/ant-trax-1.7.1.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/com.lowagie/itext/jars/itext-2.0.8.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.jsoup/jsoup/jars/jsoup-1.7.3.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-docs-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/dist/grails-scripts-2.5.6.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/bouncycastle/bcmail-jdk14/jars/bcmail-jdk14-138.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.grails/grails-gdoc-engine/jars/grails-gdoc-engine-1.0.1.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.yaml/snakeyaml/jars/snakeyaml-1.8.jar!/" />
+          <root url="jar://$GRAILS_ROOT$/lib/org.xhtmlrenderer/core-renderer/jars/core-renderer-R8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="GrailsRunConfigurationType" factoryName="Grails">
+    <setting name="vmparams" value="-Dhttps.protocols=TLSv1.2 -Dgrails.full.stacktrace=true -Djdk.tls.ephemeralDHKeySize=2048 -Doracle.net.tns_admin=\\mcfs01\tnsnames$" />
+    <setting name="cmdLine" value="run-app -stacktrace --verbose" />
+    <setting name="passParentEnv" value="true" />
+    <setting name="grailsApplicationRoot" value="" />
+    <setting name="launchBrowser" value="false" />
+    <setting name="launchBrowserUrl" value="" />
+    <setting name="depsClasspath" value="false" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,1300 @@
+<ns0:CollegeTranscript xmlns:ns0="urn:org:pesc:message:CollegeTranscript:v1.3.0" xmlns:AcRec="urn:org:pesc:sector:AcademicRecord:v1.6.0" xmlns:core="urn:org:pesc:core:CoreMain:v1.10.0" xmlns:ext="urn:ca:ocas:useextensions">
+    <TransmissionData>
+        <DocumentID>1234567</DocumentID>
+        <CreatedDateTime>2021-05-03T16:36:21.7904503-04:00</CreatedDateTime>
+        <DocumentTypeCode>RequestedRecord</DocumentTypeCode>
+        <TransmissionType>Original</TransmissionType>
+        <Source>
+            <Organization>
+                <CSIS>350711</CSIS>
+                <OrganizationName>University of Ottawa</OrganizationName>
+            </Organization>
+        </Source>
+        <Destination>
+            <Organization>
+                <CSIS>354100</CSIS>
+                <OrganizationName>Mohawk</OrganizationName>
+            </Organization>
+        </Destination>
+        <DocumentProcessCode>PRODUCTION</DocumentProcessCode>
+        <DocumentCompleteCode>Complete</DocumentCompleteCode>
+        <RequestTrackingID>C20210123456789</RequestTrackingID>
+        <NoteMessage>LEGEND          http://www.registraire.uottawa.ca/Default.aspx?tabid=3387</NoteMessage>
+    </TransmissionData>
+    <Student>
+        <Person>
+            <SchoolAssignedPersonID>9876543</SchoolAssignedPersonID>
+            <AgencyIdentifier>
+                <AgencyAssignedID>098876654</AgencyAssignedID>
+                <AgencyCode>MutuallyDefined</AgencyCode>
+                <AgencyName>OCAS Application Number</AgencyName>
+            </AgencyIdentifier>
+            <AgencyIdentifier>
+                <AgencyAssignedID>234345456</AgencyAssignedID>
+                <AgencyCode>State</AgencyCode>
+                <StateProvinceCode>ON</StateProvinceCode>
+            </AgencyIdentifier>
+            <Name>
+                <FirstName>Jo Bridey</FirstName>
+                <LastName>Fakeperson</LastName>
+            </Name>
+        </Person>
+        <AcademicRecord>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>9999-12</SessionDesignator>
+                </AcademicSessionDetail>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>9999-12</SessionDesignator>
+                    <SessionDesignatorSuffix>35</SessionDesignatorSuffix>
+                </AcademicSessionDetail>
+                <AcademicAward>
+                    <AcademicAwardLevel>2.5</AcademicAwardLevel>
+                    <AcademicAwardDate>2018-05-22</AcademicAwardDate>
+                    <AcademicAwardTitle>Honours Bachelor of Commerce  (Marketing)</AcademicAwardTitle>
+                </AcademicAward>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2010-09</SessionDesignator>
+                    <SessionDesignatorSuffix>41</SessionDesignatorSuffix>
+                    <SessionName>2010Fall</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Management)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>1300</CourseNumber>
+                    <CourseTitle>Introduction to Business Management</CourseTitle>
+                    <NoteMessage>CLASS SIZE      54</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   4.28</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>D</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>1301</CourseNumber>
+                    <CourseTitle>Social Context of Business</CourseTitle>
+                    <NoteMessage>CLASS SIZE      173</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   4.84</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ECO</CourseSubjectAbbreviation>
+                    <CourseNumber>1104</CourseNumber>
+                    <CourseTitle>Introduction to Microeconomics</CourseTitle>
+                    <NoteMessage>CLASS SIZE      407</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.58</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>0</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>E</CourseAcademicGrade>
+                    <CourseRepeatCode>RepeatNotCounted</CourseRepeatCode>
+                    <CourseSubjectAbbreviation>PHI</CourseSubjectAbbreviation>
+                    <CourseNumber>1101</CourseNumber>
+                    <CourseTitle>Reasoning and Critical Thinking</CourseTitle>
+                    <NoteMessage>CLASS SIZE      234</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.86</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>9</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>3.67</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>9</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>3.67</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2020-01</SessionDesignator>
+                    <SessionDesignatorSuffix>115</SessionDesignatorSuffix>
+                    <SessionName>2020Winter</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Management)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>D+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>1340</CourseNumber>
+                    <CourseTitle>Financial Accounting</CourseTitle>
+                    <NoteMessage>CLASS SIZE      83</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   3.54</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>A-</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>1370</CourseNumber>
+                    <CourseTitle>Applications of Information Technology for Business</CourseTitle>
+                    <NoteMessage>CLASS SIZE      198</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   7.04</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ECO</CourseSubjectAbbreviation>
+                    <CourseNumber>1102</CourseNumber>
+                    <CourseTitle>Introduction to Macroeconomics</CourseTitle>
+                    <NoteMessage>CLASS SIZE      163</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.33</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ENG</CourseSubjectAbbreviation>
+                    <CourseNumber>1131</CourseNumber>
+                    <CourseTitle>Effective Business English</CourseTitle>
+                    <NoteMessage>CLASS SIZE      98</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.81</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>MAT</CourseSubjectAbbreviation>
+                    <CourseNumber>1302</CourseNumber>
+                    <CourseTitle>Mathematical Methods II</CourseTitle>
+                    <NoteMessage>CLASS SIZE      195</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.05</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>15</CreditHoursAttempted>
+                        <CreditHoursEarned>15</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>6</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>27</CreditHoursAttempted>
+                        <CreditHoursEarned>24</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.13</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2020-09</SessionDesignator>
+                    <SessionDesignatorSuffix>201</SessionDesignatorSuffix>
+                    <SessionName>2020Fall</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Management)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2320</CourseNumber>
+                    <CourseTitle>Marketing</CourseTitle>
+                    <NoteMessage>CLASS SIZE      80</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.28</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2336</CourseNumber>
+                    <CourseTitle>Organizational Behaviour</CourseTitle>
+                    <NoteMessage>CLASS SIZE      89</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.85</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>A-</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>PLN</CourseSubjectAbbreviation>
+                    <CourseNumber>1901</CourseNumber>
+                    <CourseTitle>Elementary Polish I</CourseTitle>
+                    <NoteMessage>CLASS SIZE      12</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   8.33</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>0</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>F</CourseAcademicGrade>
+                    <CourseRepeatCode>RepeatNotCounted</CourseRepeatCode>
+                    <CourseSubjectAbbreviation>MAT</CourseSubjectAbbreviation>
+                    <CourseNumber>1300</CourseNumber>
+                    <CourseTitle>Mathematical Methods I</CourseTitle>
+                    <NoteMessage>CLASS SIZE      193</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.81</NoteMessage>
+                    <NoteMessage>CRS COMMENT     Supplemental Exam - Original grade: E</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>9</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>6</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>39</CreditHoursAttempted>
+                        <CreditHoursEarned>33</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.36</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2030-09</SessionDesignator>
+                    <SessionDesignatorSuffix>276</SessionDesignatorSuffix>
+                    <SessionName>2030Fall</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Management)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2337</CourseNumber>
+                    <CourseTitle>Human Resource Management</CourseTitle>
+                    <NoteMessage>CLASS SIZE      79</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.04</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2341</CourseNumber>
+                    <CourseTitle>Managerial Accounting</CourseTitle>
+                    <NoteMessage>CLASS SIZE      88</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.44</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2372</CourseNumber>
+                    <CourseTitle>Management Information Systems</CourseTitle>
+                    <NoteMessage>CLASS SIZE      78</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.56</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseRepeatCode>RepeatCounted</CourseRepeatCode>
+                    <CourseSubjectAbbreviation>PHI</CourseSubjectAbbreviation>
+                    <CourseNumber>1101</CourseNumber>
+                    <CourseTitle>Reasoning and Critical Thinking</CourseTitle>
+                    <NoteMessage>CLASS SIZE      200</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   3.64</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>12</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>51</CreditHoursAttempted>
+                        <CreditHoursEarned>45</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.27</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2040-01</SessionDesignator>
+                    <SessionDesignatorSuffix>350</SessionDesignatorSuffix>
+                    <SessionName>2040Winter</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Management)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3313</CourseNumber>
+                    <CourseTitle>Entrepreneurial Mind: New Venture Creation</CourseTitle>
+                    <NoteMessage>CLASS SIZE      52</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.50</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3318</CourseNumber>
+                    <CourseTitle>International Business</CourseTitle>
+                    <NoteMessage>CLASS SIZE      82</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.21</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>PSY</CourseSubjectAbbreviation>
+                    <CourseNumber>1102</CourseNumber>
+                    <CourseTitle>Introduction to Psychology: Applications</CourseTitle>
+                    <NoteMessage>CLASS SIZE      230</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.54</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>A-</CourseAcademicGrade>
+                    <CourseRepeatCode>RepeatCounted</CourseRepeatCode>
+                    <CourseSubjectAbbreviation>MAT</CourseSubjectAbbreviation>
+                    <CourseNumber>1300</CourseNumber>
+                    <CourseTitle>Mathematical Methods I</CourseTitle>
+                    <NoteMessage>CLASS SIZE      190</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   4.99</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>12</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>6.5</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>63</CreditHoursAttempted>
+                        <CreditHoursEarned>57</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.53</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2040-09</SessionDesignator>
+                    <SessionDesignatorSuffix>424</SessionDesignatorSuffix>
+                    <SessionName>2040Fall</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Management)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3322</CourseNumber>
+                    <CourseTitle>Services Marketing</CourseTitle>
+                    <NoteMessage>CLASS SIZE      68</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.24</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3326</CourseNumber>
+                    <CourseTitle>Advertising and Sales Promotion Management</CourseTitle>
+                    <NoteMessage>CLASS SIZE      75</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.44</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>PHI</CourseSubjectAbbreviation>
+                    <CourseNumber>2397</CourseNumber>
+                    <CourseTitle>Business Ethics</CourseTitle>
+                    <NoteMessage>CLASS SIZE      183</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.26</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>SOC</CourseSubjectAbbreviation>
+                    <CourseNumber>3116</CourseNumber>
+                    <CourseTitle>Technologies, World and Societies</CourseTitle>
+                    <NoteMessage>CLASS SIZE      71</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.65</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>12</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>6.25</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>75</CreditHoursAttempted>
+                        <CreditHoursEarned>69</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.65</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2050-01</SessionDesignator>
+                    <SessionDesignatorSuffix>497</SessionDesignatorSuffix>
+                    <SessionName>2050Winter</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Management)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2381</CourseNumber>
+                    <CourseTitle>Business Communication Skills</CourseTitle>
+                    <NoteMessage>CLASS SIZE      108</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.19</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>A</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3319</CourseNumber>
+                    <CourseTitle>Cross-Cultural Management</CourseTitle>
+                    <NoteMessage>CLASS SIZE      71</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   8.18</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3321</CourseNumber>
+                    <CourseTitle>Consumer Behaviour</CourseTitle>
+                    <NoteMessage>CLASS SIZE      72</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.44</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>GEG</CourseSubjectAbbreviation>
+                    <CourseNumber>2109</CourseNumber>
+                    <CourseTitle>Canada and Its Regions</CourseTitle>
+                    <NoteMessage>CLASS SIZE      118</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.70</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>12</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>7</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>87</CreditHoursAttempted>
+                        <CreditHoursEarned>81</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.85</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2050-05</SessionDesignator>
+                    <SessionDesignatorSuffix>570</SessionDesignatorSuffix>
+                    <SessionName>2050SprSum</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Marketing)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>CreditByExam</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>CR</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2303</CourseNumber>
+                    <CourseTitle>Statistics for Management</CourseTitle>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>B</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>93</CreditHoursAttempted>
+                        <CreditHoursEarned>84</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.85</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>93</CreditHoursAttempted>
+                        <CreditHoursEarned>84</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.85</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2050-09</SessionDesignator>
+                    <SessionDesignatorSuffix>604</SessionDesignatorSuffix>
+                    <SessionName>2050Fall</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Marketing)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>D</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2302</CourseNumber>
+                    <CourseTitle>Business Analytics</CourseTitle>
+                    <NoteMessage>CLASS SIZE      81</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   4.80</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2304</CourseNumber>
+                    <CourseTitle>Applications of Statistical Methods in Business</CourseTitle>
+                    <NoteMessage>CLASS SIZE      90</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   4.98</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>A-</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2313</CourseNumber>
+                    <CourseTitle>The Entrepreneurial Society</CourseTitle>
+                    <NoteMessage>CLASS SIZE      85</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.04</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>2350</CourseNumber>
+                    <CourseTitle>Financial Management</CourseTitle>
+                    <NoteMessage>CLASS SIZE      98</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.04</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>12</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.5</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>105</CreditHoursAttempted>
+                        <CreditHoursEarned>96</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.81</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2060-01</SessionDesignator>
+                    <SessionDesignatorSuffix>677</SessionDesignatorSuffix>
+                    <SessionName>2060Winter</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Marketing)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3301</CourseNumber>
+                    <CourseTitle>Operations Management</CourseTitle>
+                    <NoteMessage>CLASS SIZE      85</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.18</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>3323</CourseNumber>
+                    <CourseTitle>Market Research</CourseTitle>
+                    <NoteMessage>CLASS SIZE      55</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.33</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>4328</CourseNumber>
+                    <CourseTitle>International Marketing</CourseTitle>
+                    <NoteMessage>CLASS SIZE      71</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   7.94</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>A-</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>4329</CourseNumber>
+                    <CourseTitle>Personal Selling</CourseTitle>
+                    <NoteMessage>CLASS SIZE      58</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.79</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>12</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>7</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>117</CreditHoursAttempted>
+                        <CreditHoursEarned>108</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.94</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2016-09</SessionDesignator>
+                    <SessionDesignatorSuffix>750</SessionDesignatorSuffix>
+                    <SessionName>2016Fall</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Marketing)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>C</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>4311</CourseNumber>
+                    <CourseTitle>Strategic Management</CourseTitle>
+                    <NoteMessage>CLASS SIZE      57</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   6.25</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>A-</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>4322</CourseNumber>
+                    <CourseTitle>Marketing Strategy</CourseTitle>
+                    <NoteMessage>CLASS SIZE      47</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   7.19</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>B+</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>ADM</CourseSubjectAbbreviation>
+                    <CourseNumber>4325</CourseNumber>
+                    <CourseTitle>Promotional Planning Practicum</CourseTitle>
+                    <NoteMessage>CLASS SIZE      31</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   7.77</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <Course>
+                    <CourseCreditBasis>Regular</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>0</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>F</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>MDV</CourseSubjectAbbreviation>
+                    <CourseNumber>2100</CourseNumber>
+                    <CourseTitle>Introduction to Medieval and Renaissance Civilization</CourseTitle>
+                    <NoteMessage>COURSE SUBTITLE Religious&amp;Intellect.Repression</NoteMessage>
+                    <NoteMessage>CLASS SIZE      73</NoteMessage>
+                    <NoteMessage>CLASS AVERAGE   5.58</NoteMessage>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>R</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>12</CreditHoursAttempted>
+                        <CreditHoursEarned>9</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>4.75</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>129</CreditHoursAttempted>
+                        <CreditHoursEarned>117</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.82</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+            <AcademicSession>
+                <AcademicSessionDetail>
+                    <SessionDesignator>2070-01</SessionDesignator>
+                    <SessionDesignatorSuffix>824</SessionDesignatorSuffix>
+                    <SessionName>2070Winter</SessionName>
+                    <SessionType>Semester</SessionType>
+                </AcademicSessionDetail>
+                <AcademicProgram>
+                    <AcademicProgramName>Honours Bachelor of Commerce  (Marketing)</AcademicProgramName>
+                </AcademicProgram>
+                <Course>
+                    <CourseCreditBasis>CreditByExam</CourseCreditBasis>
+                    <CourseCreditUnits>Semester</CourseCreditUnits>
+                    <CourseCreditLevel>Undergraduate</CourseCreditLevel>
+                    <CourseCreditValue>3</CourseCreditValue>
+                    <CourseCreditEarned>3</CourseCreditEarned>
+                    <CourseAcademicGradeScaleCode>15</CourseAcademicGradeScaleCode>
+                    <CourseAcademicGrade>CR</CourseAcademicGrade>
+                    <CourseSubjectAbbreviation>CMN</CourseSubjectAbbreviation>
+                    <CourseNumber>2180</CourseNumber>
+                    <CourseTitle>Popular Culture and Communication</CourseTitle>
+                    <UserDefinedExtensions>
+                        <ext:CollegeTranscriptCourseExtensions>
+                            <BasisForCreditCode>B</BasisForCreditCode>
+                        </ext:CollegeTranscriptCourseExtensions>
+                    </UserDefinedExtensions>
+                </Course>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>3.1</CreditHoursAttempted>
+                        <CreditHoursEarned>3</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>0</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: All</NoteMessage>
+                </AcademicSummary>
+                <AcademicSummary>
+                    <AcademicSummaryType>All</AcademicSummaryType>
+                    <AcademicSummaryLevel>Undergraduate</AcademicSummaryLevel>
+                    <GPA>
+                        <CreditHoursAttempted>132.1</CreditHoursAttempted>
+                        <CreditHoursEarned>120</CreditHoursEarned>
+                        <CreditUnit>Other</CreditUnit>
+                        <GradePointAverage>5.82</GradePointAverage>
+                        <NoteMessage>Y</NoteMessage>
+                    </GPA>
+                    <NoteMessage>AcademicSummaryType: Cumulative</NoteMessage>
+                </AcademicSummary>
+            </AcademicSession>
+        </AcademicRecord>
+    </Student>
+</ns0:CollegeTranscript>
